@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @egaydnn
+- 👀 I’m interested in programming and game devoloping
+- 🌱 I’m currently learning godot
+- 💞️ I'm studying petroleum engineering at METU
